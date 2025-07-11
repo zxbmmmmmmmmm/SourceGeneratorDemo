@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGeneratorDemo.Console", "SourceGeneratorDemo.Console\SourceGeneratorDemo.Console.csproj", "{C5C34D8C-52D6-4C97-8E9B-901630E319C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGeneratorDemo.Generator", "SourceGeneratorDemo.Generator\SourceGeneratorDemo.Generator.csproj", "{8FF5536A-129E-4302-A51F-E04D8B745078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C34D8C-52D6-4C97-8E9B-901630E319C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C34D8C-52D6-4C97-8E9B-901630E319C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C34D8C-52D6-4C97-8E9B-901630E319C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C34D8C-52D6-4C97-8E9B-901630E319C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF5536A-129E-4302-A51F-E04D8B745078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF5536A-129E-4302-A51F-E04D8B745078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF5536A-129E-4302-A51F-E04D8B745078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF5536A-129E-4302-A51F-E04D8B745078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

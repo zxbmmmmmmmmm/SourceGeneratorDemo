@@ -1,0 +1,10 @@
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\bin\Debug\netstandard2.0\SourceGeneratorDemo.Generator.deps.json
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\bin\Debug\netstandard2.0\SourceGeneratorDemo.Generator.dll
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\bin\Debug\netstandard2.0\SourceGeneratorDemo.Generator.pdb
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.csproj.AssemblyReference.cache
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.AssemblyInfoInputs.cache
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.AssemblyInfo.cs
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.csproj.CoreCompileInputs.cache
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.dll
+D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.pdb
