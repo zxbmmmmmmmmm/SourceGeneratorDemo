@@ -2,3 +2,4 @@
 using SourceGeneratorDemo.Generator;
 
 HelloWorld.SayHello();
+HelloWorldSyntaxTree.SayHello();

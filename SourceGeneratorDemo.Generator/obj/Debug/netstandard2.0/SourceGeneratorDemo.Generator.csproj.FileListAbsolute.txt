@@ -8,3 +8,14 @@ D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandar
 D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.csproj.CoreCompileInputs.cache
 D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.dll
 D:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.pdb
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\bin\Debug\netstandard2.0\SourceGeneratorDemo.Generator.deps.json
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\bin\Debug\netstandard2.0\SourceGeneratorDemo.Generator.dll
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\bin\Debug\netstandard2.0\SourceGeneratorDemo.Generator.pdb
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.csproj.AssemblyReference.cache
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.GeneratedMSBuildEditorConfig.editorconfig
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.AssemblyInfoInputs.cache
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.AssemblyInfo.cs
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.csproj.CoreCompileInputs.cache
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.sourcelink.json
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.dll
+G:\source\SourceGeneratorDemo\SourceGeneratorDemo.Generator\obj\Debug\netstandard2.0\SourceGeneratorDemo.Generator.pdb
